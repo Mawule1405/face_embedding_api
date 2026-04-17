@@ -1,0 +1,6 @@
+fastapi[standard]
+numpy
+insightface
+onnxruntime
+opencv-python
+onnxruntime-gpu
